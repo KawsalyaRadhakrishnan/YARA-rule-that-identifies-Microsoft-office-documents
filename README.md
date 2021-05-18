@@ -1,0 +1,1 @@
+# YARA-rule-that-identifies-Microsoft-office-documents
